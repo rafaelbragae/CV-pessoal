@@ -42,10 +42,11 @@
 }
 
 .name {
-    color: #D6DBDF;
+    color: #000000;
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .profession {
@@ -55,10 +56,10 @@
     text-align: center;
 }
 
-.contact-info { border-bottom: 2px solid #eeeeee; }
+/*.contact-info { border-bottom: 2px solid #1B2631; }*/
 
 .left-title {
-    color: #eeeeee;
+    color: #000000;
     font-size: 20px;
 }
 
@@ -92,7 +93,8 @@
 }
 
 .right-title {
-    color: #eeeeee;
+    color: #000000;
+    font-size: 20px;
 }
 
 .gap {
