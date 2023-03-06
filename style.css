@@ -37,7 +37,8 @@
 }
 
 .profile .profile-image {
-    width: 200px;
+    width: 220px;
+    text-align: center;
 }
 
 .name {
