@@ -34,11 +34,11 @@
 .profile {
     width: 100%;
     border-bottom: 2px solid #eeeeee;
+    text-align: center;
 }
 
 .profile .profile-image {
     width: 220px;
-    text-align: center;
 }
 
 .name {
@@ -46,14 +46,12 @@
     font-size: 30px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    text-align: center;
 }
 
 .profession {
     color: #eeeeee;
     font-size: 20px;
     text-transform: uppercase;
-    text-align: center;
 }
 
 
